@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Assets/PolygonSciFiSpace/Scenes/Demo_Exterior.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
