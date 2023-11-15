@@ -362,6 +362,7 @@
 "Assets/Assets/MtChanges/Script/AirPickupScript.cs"
 "Assets/Assets/MtChanges/Script/FuelPickupScript.cs"
 "Assets/Assets/MtChanges/Script/MetalPickupScript.cs"
+"Assets/Assets/MtChanges/Script/SpaceshipController.cs"
 "Assets/Assets/Scripts/AddColliders.cs"
 "Assets/Assets/Scripts/AddCollision.cs"
 "Assets/Assets/Scripts/AddRigidbody.cs"

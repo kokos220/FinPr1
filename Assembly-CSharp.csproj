@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Assets\Scripts\CollisionScript.cs" />
     <Compile Include="Assets\Assets\Scripts\AddRigidbody.cs" />
+    <Compile Include="Assets\Assets\MtChanges\Script\SpaceshipController.cs" />
     <Compile Include="Assets\Assets\Scripts\PlayerLook.cs" />
     <Compile Include="Assets\Assets\MtChanges\Script\AirPickupScript.cs" />
     <Compile Include="Assets\Assets\MtChanges\Script\MetalPickupScript.cs" />
